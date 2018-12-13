@@ -1,0 +1,44 @@
+
+/*sua*/
+input.ng-invalid{
+    border: 1px solid #ff0000!important;
+    border-left: 3px solid #ff0000!important;
+}
+
+input.ng-valid{
+    border: 1px solid rgb(87, 168, 235)!important;
+    border-left: 3px solid rgb(87, 168, 235)!important;
+}
+
+input.ng-pristine{
+    border: 1px solid #ccc!important;
+}
+
+.thong_bao_loi{
+    color: #ff0000;
+    font-weight: bold;
+}
+.khungchitietmuave
+{
+    width: 490px;
+    height: 470px;
+    padding-left: -20px;
+}
+.bangthongtindatve
+{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    min-height: 500px;
+}
+#bangthongtin tr th
+{
+    text-align: center;
+}
+
+#khungtim
+{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
